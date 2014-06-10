@@ -1,5 +1,5 @@
 {
-  "name" : "center-block",
+  "name" : "shoelace-ui-center-block",
   "version" : "0.0.0",
   "description" : "Mixin for easily centering blocks",
   "repository" : "https://github.com/shoelace-ui/center-block.git",

@@ -6,7 +6,7 @@ Mixin for easily centering blocks.
 ## Usage
 
 ```stylus
-@require 'center-block'
+@require 'shoelace-ui-center-block'
 ```
 
 ## Installation

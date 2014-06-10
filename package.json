@@ -1,0 +1,9 @@
+{
+  "name" : "center-block",
+  "version" : "0.0.0",
+  "description" : "Mixin for easily centering blocks",
+  "repository" : "https://github.com/shoelace-ui/center-block.git",
+  "keywords" : ["shoelace", "center", "block"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT"
+}

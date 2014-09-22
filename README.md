@@ -1,20 +1,17 @@
-
 # center-block
 
-Mixin for easily centering blocks.
+Mixin for easily centering blocks
 
+## Install
+
+```sh
+$ npm install shoelace-ui-center-block
+```
 ## Usage
 
-```stylus
+```styl
 @require 'shoelace-ui-center-block'
 ```
-
-## Installation
-
-```bash
-$ npm install shoelace-ui/center-block
-```
-
 ## License
 
-  MIT
+MIT
